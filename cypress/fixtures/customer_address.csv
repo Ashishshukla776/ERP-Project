@@ -1,0 +1,2 @@
+customer_id,customer_code,contact_name,type,address_1,address_2,address_3,address_4,city,state,zip,country,status
+1,c_1,T_3,type_3,2972 Richison Drive,,,,Reserve,Montana,59258,United States,1

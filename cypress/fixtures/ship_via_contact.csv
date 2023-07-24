@@ -1,0 +1,2 @@
+ship_via_code,ship_via_id,first_name,middle_name,last_name,status,contact_info.0.type,contact_info.0.value,contact_info.0.label,contact_info.0.status
+svC_004,1,Peter,John,White,1,phone,347-503-0463,office phone,1

@@ -1,0 +1,2 @@
+customer_id,customer_code,first_name,middle_name,last_name,status,contact_info.0.type,contact_info.0.value,contact_info.0.label,contact_info.0.status,contact_info.1.type,contact_info.1.value,contact_info.1.label,contact_info.1.status,error
+,002,Sachin,Kumar,Sharma,1,phone,54879554623,ofice phone,1,email,test@email.com,office email,1

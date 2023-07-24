@@ -1,0 +1,4 @@
+company_name,code,name,description,amount,type,status
+company_1,Rlty_001,testdivision_1,This is description 1,4.26,F,1
+company_2,Rlty_002,testdivision_2,This is description 2,5.32,P,1
+company_2,Rlty_003,testdivision_3,This is description 3,6.45,F,0

@@ -1,0 +1,2 @@
+sales_person_id,sales_person_code,contact_name,type,address_1,address_2,address_3,address_4,city,state,zip,country,status
+1,SpC_004,spAddcont_3,type_3,2511 Point Street,,,,CA,San Diego,69631,United states,1

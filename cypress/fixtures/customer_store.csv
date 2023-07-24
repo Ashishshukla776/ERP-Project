@@ -1,0 +1,2 @@
+customer_code,dc_code,customer_id,code,dc_id,edi_store_no,contact_name,type,address_1,address_2,address_3,address_4,city,state,zip,country,status
+c_1,CSDC_4,1,CST_3,1,789,Test_3,type_3,3185 Benson Park Drive,,,,Oklahoma City,Oklahoma,73102,United States,1

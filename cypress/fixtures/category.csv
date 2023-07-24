@@ -1,0 +1,4 @@
+code,name,description,type,status
+C_01,Shirt,This is category description 1,type_1,1
+C_02,T-shirt,This is category description 2,type_2,0
+C_03,Trousers,This is category description 3,type_3,1

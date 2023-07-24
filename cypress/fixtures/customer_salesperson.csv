@@ -1,0 +1,2 @@
+customer_code,sales_person_code,customer_id,sales_person_id,commission_type,commission,status
+c_1,sp_1,1,1,F,5.29,1

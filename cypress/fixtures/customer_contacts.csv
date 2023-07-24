@@ -1,0 +1,2 @@
+customer_code,customer_id,first_name,middle_name,last_name,status,contact_info.0.type,contact_info.0.value,contact_info.0.label,contact_info.0.status
+c_1,1,Peter,John,White,1,phone,45795546,office phone,1

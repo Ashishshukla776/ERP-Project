@@ -1,0 +1,4 @@
+code,name,dba,def_factor_id,status
+FC_001,testdivision_1,dba_1,1,1
+FC_002,testdivision_2,dba_2,2,30
+FC_003,testdivision_3,dba_3,3,1

@@ -1,0 +1,4 @@
+code,name,status,template_sizes.0.nrf_code,template_sizes.0.seq_x,template_sizes.0.seq_y,template_sizes.0.size_x,template_sizes.0.size_y,template_sizes.0.status,template_sizes.1.nrf_code,template_sizes.1.seq_x,template_sizes.1.seq_y,template_sizes.1.size_x,template_sizes.1.size_y,template_sizes.1.status
+TC_001,shirt,1,sh_1,1,1,xs,-,1,sh_2,1,2,s,-,1
+TC_002,jeans,1,je_1,1,1,s,m,0,je_2,1,2,m,l,1
+TC_003,trouser,1,tr_1,1,1,m,l,1,tr_2,1,2,xl,-,0
